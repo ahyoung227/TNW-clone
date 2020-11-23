@@ -4,7 +4,7 @@
 
 ## About The Project
 
-<img src="/image/tnw-clone-ahyounga.gif">
+<img src="/image/tnw-clone-ahyoung.gif ">
 
 ### Built With
 
